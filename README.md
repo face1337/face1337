@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on <b>Jira like board app</b><br>
+🔭 I’m currently working as Software Developer in telco company. In my free time I love to take new bigger challenges. <br>
+Currently creating [Jira like board app](https://github.com/face1337/todoApp)<br>
 👯 I’m looking to collaborate.<br>
 🌱 I’m currently learning Python and various web frameworks for backend (i.e Django, Flask, Django Rest Framework, FastAPI). Also learning some of JS for frontend.
 
