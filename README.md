@@ -1,9 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently employed as C++ Software Developer at Ericsson. In my free time I love to take new bigger challenges. <br>
-Currently working on [Jira like board app](https://github.com/face1337/todoApp) using Django.<br>
+🔭 Currently employed as C++ Software Developer at Ericsson. In my free time I love to take new bigger challenges. <br>
 👯 I’m looking to collaborate.<br>
 🌱 I’m currently learning Python and various web frameworks for backend (i.e Django, Flask, Django Rest Framework, FastAPI). Also learning some of JS for frontend.
-My goal here is to transition into backend developer, preferably in Django.
+My goal is to transition into backend web developer, preferably in Django.
 
 
 ## 🌐 Socials:
